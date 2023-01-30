@@ -511,3 +511,8 @@ From contract development and deployment to dApp building and scaling, this GitH
 * [eth-button](https://eth-button.github.io/eth-button/) - Minimalist donation button
 * [Rimble Design System](https://rimble.consensys.design/) - Adaptable components and design standards for decentralized applications.
 * [3Box Plugins](https://docs.3box.io/build/plugins) - Drop in react components for social functionality. Including comments, profiles and messaging.
+
+## Newsletter to follow
+- [Week in Ethereum Newsletter](https://weekinethereumnews.com/) - Weekly updates from the Ethereum ecosystem
+- [Developer DAO Newsletter](https://developerdao.substack.com/) - Articles from Developer DAO directly inside your inbox
+- [BuidlGuidl Newsletter](https://buildguidl.substack.com/) - A newsletter about Ethereum builders creating products, prototypes, and tutorials
